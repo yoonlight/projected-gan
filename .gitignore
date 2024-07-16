@@ -26,3 +26,6 @@ tags
 *.pkl
 *.mp4
 *.pyc
+
+datasets
+dataset.sh

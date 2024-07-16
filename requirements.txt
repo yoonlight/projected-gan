@@ -1,0 +1,9 @@
+autopep8
+pylint
+gdown
+ipykernel
+scipy
+imageio
+click
+timm==0.4.12
+tensorboard
